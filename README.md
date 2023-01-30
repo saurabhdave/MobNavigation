@@ -26,6 +26,16 @@ The project includes tests for each of the coordinator and view model classes. T
 
 Xcode - The development environment used
 
+## How it Works
+
+The project consists of several view controllers, each of which is responsible for a specific screen. Each view controller is connected to a corresponding coordinator which handles navigation between screens. The coordinators are connected in a hierarchy to provide a clear flow of navigation through the application.
+
+The coordinator pattern allows for a separation of responsibilities between the view controllers and the navigation logic, resulting in a more maintainable and testable codebase.
+
+## Conclusion
+
+This project serves as a simple example of how to implement the coordinator pattern for screen navigation in iOS applications. Feel free to use the code and patterns demonstrated in this project for your own needs and further explore the possibilities of the coordinator pattern.
+
 ## Authors
 
 Saurabh Dave - Initial work - Your Github Profile
