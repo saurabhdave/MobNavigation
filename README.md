@@ -38,12 +38,9 @@ This project serves as a simple example of how to implement the coordinator patt
 
 ## Authors
 
-Saurabh Dave - Initial work - Your Github Profile
+Saurabh Dave - Initial work
 See also the list of contributors who participated in this project.
 
 
 ## Acknowledgments
 
-Hat tip to anyone whose code was used
-Inspiration
-etc
